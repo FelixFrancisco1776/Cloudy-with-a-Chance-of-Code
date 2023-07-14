@@ -1,0 +1,64 @@
+body {
+    background-color: #ADC3D9;
+  }
+
+
+.custom-card-header {
+    color: white;
+    background-color: #2B3036;
+}
+
+input {
+    width: auto;
+    height: 50px;
+}
+
+.custom-button {
+    background-color: #346AC1;;
+}
+
+.card {
+    width: 100%;
+    background-color:#91A3B5;
+    border: 5px solid;
+    
+}
+
+.list-group {
+    font-size: 26px;
+    
+}
+
+.city-name {
+    font-size: 50px;
+}
+
+#weather {
+  border: 5px solid;
+  padding-bottom: 2%;
+  background-color:#91A3B5;
+}
+
+
+#five-day-container {
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 2%;
+    padding-left: 20%;
+    padding-top: 1%;
+    color:white;
+}
+
+.background-blue {
+    background-color:#346AC1;
+    margin: 20px;
+    border-radius: 5%;
+    height: 350px;
+    padding-top: 5%;
+    border: 5px solid black ;
+}
+
+h3 {
+    font-size: 40px;
+    padding-top: 5%;
+}
